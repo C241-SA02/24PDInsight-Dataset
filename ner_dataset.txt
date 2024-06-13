@@ -1,0 +1,2 @@
+# NER dataset is on HuggingFace
+farizkuy/capstone_ner_dataset
